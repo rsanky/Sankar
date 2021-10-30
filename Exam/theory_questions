@@ -1,0 +1,23 @@
+Question 1:
+What is an API?
+
+
+Question 2:
+What is an endpoint?
+
+
+Question 3:
+What is a model?
+
+
+Question 4:
+What is the requirements.txt file for?
+
+
+Question 5: (2 part question)
+What are blueprints used for?
+Is it possible to write a flask application without first defining blueprints?
+
+
+Bonus Question:
+Why do we start all of our endpoints with /api/v1/?
