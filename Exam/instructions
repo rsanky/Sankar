@@ -1,0 +1,49 @@
+The exam is divided into 3 parts (they are independent and you can choose to complete them in any order you wish)
+
+***VERY IMPORTANT***
+When you are done, LET ME KNOW! You will need to push your code to the git repository of the exam. No other submission
+type will be allowed. Don't worry about it though, let me know when you are done and we will push it together. 
+
+---PART 1: Multiple Choice--- (10%)
+Each question only has 1 correct answer. If multiple answers are selected, no points will be awarded. 
+
+---PART 2: Theory questions--- (15%)
+You MUST use your own words when answering the question. Simply write your answer underneath the question.
+
+---PART 3: Coding--- (75%)
+*BEFORE YOU START:*
+
+1. Run the following commands in the terminal (on the bottom like we've done in class):
+    python3 -m venv venv (if it doesn't work, replace python3 with python)
+    source venv/Scripts/activate
+    pip install -r requirements.txt
+2. On the bottom right of PyCharm, click on the button to the left of 'master' (something like Python 3.9)
+   Click Add Interpreter...
+   Select Existing Environment
+   Click on the 3 little dots to select your interpreter (...)
+   Double click on venv/Scripts/python.exe
+   You have now set up your virtual environment and 'connected' it to PyCharm
+3. Run the main.py of the application
+4. You should see a 'bookstore.db' file be created at Final/bookstore.db (the app uses sqlite)
+5. Visit the endpoints defined in the routes.py. They should all work and you should see some text being returned.
+6. If you get any sort of errors before even coding anything, let me know!
+
+This project is a partially coded flask application. Complete the code in the following files (instructions in the code):
+
+models.py (25%)
+routes.py (50%)
+
+---OPTIONAL PART: ---
+Only if you have time, leave a few comments on what you thought of this course, and my teaching of it. If you have been
+a student of both my classes (this semester and the last, let me know how you compare the two in terms of notes,
+powerpoint slides, assignments, exams, etc. 
+Obviously this is not anonymous since it will come with your exam but don't be scared to offend me, I take everything as 
+constructive feedback :)
+
+
+**********************************************************************
+**********************************************************************
+
+You're done! I had a blast teaching you guys and I hope we cross paths in the future again.
+Feel free to add me on linkedin!
+https://www.linkedin.com/in/daniel-neagoe-2a0679a2/
